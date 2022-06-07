@@ -1,0 +1,630 @@
+﻿-deriv-type: V-ptcp1
+ lex: [.]т
+ stem: [.]т.
+ gloss: PTCP
+ gramm: +ptcp
+ paradigm: Adj1
+
+-deriv-type: V-ptcp2
+ lex: [.]л
+ stem: [.]л.
+ gloss: PTCP
+ gramm: +ptcp
+ paradigm: Adj1
+
+-deriv-type: V-ptcp3
+ lex: [.]д
+ stem: [.]д.
+ gloss: PTCP
+ gramm: +ptcp
+ paradigm: Adj1
+
+-deriv-type: V-ptcp4
+ lex: [.]н
+ stem: [.]н.
+ gloss: PTCP
+ gramm: +ptcp
+ paradigm: Adj1
+
+-deriv-type: V-cvb1
+ lex: [.]и
+ stem: [.]и
+ gloss: CVB
+ gramm: +cvb
+
+-deriv-type: V-cvb2
+ lex: [.]ы
+ stem: [.]ы
+ gloss: CVB
+ gramm: +cvb
+
+-deriv-type: V-cvb3
+ lex: [.]ыи
+ stem: [.]ыи
+ gloss: CVB
+ gramm: +cvb
+
+-deriv-type: V-cvb4
+ lex: [.]эи
+ stem: [.]эи
+ gloss: CVB
+ gramm: +cvb
+
+-deriv-type: V-cvb5
+ lex: [.]ови
+ stem: [.]ови
+ gloss: CVB
+ gramm: +cvb
+
+-deriv-type: N-iben1
+ lex: [.]ибэн
+ stem: [.]ибэн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben2
+ lex: [.]ибэ
+ stem: [.]ибэ.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben3
+ lex: [.]ипэ
+ stem: [.]ипэ.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben4
+ lex: [.]ипэн
+ stem: [.]ипэн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben5
+ lex: [.]ибн
+ stem: [.]ибн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben6
+ lex: [.]ипн
+ stem: [.]ипн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben7
+ lex: [.]ыбэн
+ stem: [.]ыбэн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben8
+ lex: [.]ыбэ
+ stem: [.]ыбэ.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben9
+ lex: [.]ыпэ
+ stem: [.]ыпэ.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben10
+ lex: [.]ыпэн
+ stem: [.]ыпэн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben11
+ lex: [.]ыбн
+ stem: [.]ыбн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben12
+ lex: [.]ыпн
+ stem: [.]ыпн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-ar1
+ lex: [.]ар
+ stem: [.]ар.
+ gloss: AG
+ gramm: +ag
+ paradigm: N4
+
+-deriv-type: N-ar2
+ lex: [.]яр
+ stem: [.]яр.
+ gloss: AG
+ gramm: +ag
+ paradigm: N4
+
+-deriv-type: N-or1a
+ lex: [.]ор
+ stem: [.]ор.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N2
+
+-deriv-type: N-or1b
+ lex: [.]ёр
+ stem: [.]ёр.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N2
+
+-deriv-type: N-or2a
+ lex: [.]ор
+ stem: [.]ор.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N11
+
+-deriv-type: N-or2b
+ lex: [.]ёр
+ stem: [.]ёр.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N11
+
+-deriv-type: N-or3a
+ lex: [.]ор
+ stem: [.]ор.
+ gloss: DIM
+ gramm: +dim
+ paradigm: Adj1
+
+-deriv-type: N-or3b
+ lex: [.]ёр
+ stem: [.]ёр.
+ gloss: DIM
+ gramm: +dim
+ paradigm: Adj1
+
+-deriv-type: N-im1
+ lex: [.]ыма
+ stem: [.]ыма.
+ gloss: ABSTR
+ gramm: +abstr
+ paradigm: N13
+
+-deriv-type: N-im2
+ lex: [.]има
+ stem: [.]има.
+ gloss: ABSTR
+ gramm: +abstr
+ paradigm: N13
+
+-deriv-type: N-n
+ lex: [.]н
+ stem: [.]н.
+ gloss: F
+ gramm: +f
+ paradigm: N12
+
+-deriv-type: N-ic1a
+ lex: [.]ыц
+ stem: [.]ыц.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N13
+
+-deriv-type: N-ic1b
+ lex: [.]иц
+ stem: [.]иц.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N13
+
+-deriv-type: N-ic2a
+ lex: [.]ыц
+ stem: [.]ыц.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N3
+
+-deriv-type: N-ic2b
+ lex: [.]иц
+ stem: [.]иц.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N3
+
+-deriv-type: N-ushk1
+ lex: [.]ушк
+ stem: [.]ушк.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N2
+
+-deriv-type: N-ushk2
+ lex: [.]ушк
+ stem: [.]ушк.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N11
+
+-deriv-type: N-ink1
+ lex: [.]иньк
+ stem: [.]иньк.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N11
+
+-deriv-type: N-ink2
+ lex: [.]иньк
+ stem: [.]иньк.
+ gloss: DIM
+ gramm: +dim
+ paradigm: N2
+
+-deriv-type: N-ovat
+ lex: [.]оват
+ stem: [.]оват.
+ gloss: DIM
+ gramm: +dim
+ paradigm: Adj1
+
+-deriv-type: N-itk1
+ lex: [.]ытк
+ stem: [.]ытк.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-itk2
+ lex: [.]итк
+ stem: [.]итк.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-an
+ lex: [.]ан
+ stem: [.]ан.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-un
+ lex: [.]ун
+ stem: [.]ун.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: X-atun
+ lex: [.]атун
+ stem: [.]атун.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-kan1
+ lex: [.]икан
+ stem: [.]икан.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-kan2
+ lex: [.]кан
+ stem: [.]кан.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-al
+ lex: [.]ал
+ stem: [.]ал.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-var
+ lex: [.]вар
+ stem: [.]вар.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-ov1
+ lex: [.]ав
+ stem: [.]ав.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-ov2
+ lex: [.]яв
+ stem: [.]яв.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-ov3
+ lex: [.]ов
+ stem: [.]ов.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-ov4
+ lex: [.]ёв
+ stem: [.]ёв.
+ gloss: ADJ
+ gramm: +adj
+ paradigm: Adj1
+
+-deriv-type: N-car
+ lex: би[.]
+ stem: би[.].
+ gloss: CAR
+ gramm: +car
+
+-deriv-type: V-av
+ lex: [.]ав
+ stem: [.]ав.
+ gloss: CAUS
+ gramm: +caus
+ paradigm: V3
+
+-deriv-type: V-kir1
+ lex: [.]кир
+ stem: [.]кир.
+ gloss: CAUS
+ gramm: +caus
+ paradigm: V3
+
+-deriv-type: V-kir2
+ lex: [.]гир
+ stem: [.]гир.
+ gloss: CAUS
+ gramm: +caus
+ paradigm: V3
+
+-deriv-type: V-iskir1
+ lex: [.]искир
+ stem: [.]искир.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V3
+
+-deriv-type: V-iskir2
+ lex: [.]ыскир
+ stem: [.]ыскир.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V3
+
+-deriv-type: V-in1
+ lex: [.]ын
+ stem: [.]ын.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V3
+
+-deriv-type: V-in2
+ lex: [.]ин
+ stem: [.]ин.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V3
+
+-deriv-type: V-iso1
+ lex: [.]исо
+ stem: [.]исо.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V10
+
+-deriv-type: V-iso2
+ lex: [.]ысо
+ stem: [.]ысо.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V10
+
+-deriv-type: V-iso3
+ lex: [.]есо
+ stem: [.]есо.
+ gloss: ADPT
+ gramm: +adpt
+ paradigm: V10
+
+-deriv-type: N-idyr1a
+ lex: [.]ыдыр
+ stem: [.]ыдыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: Adj1
+
+-deriv-type: N-idyr1b
+ lex: [.]идыр
+ stem: [.]идыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: Adj1
+
+-deriv-type: N-idyr1c
+ lex: [.]эдыр
+ stem: [.]эдыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: Adj1
+
+-deriv-type: N-idyr1d
+ lex: [.]едыр
+ stem: [.]едыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: Adj1
+
+-deriv-type: N-idyr2a
+ lex: [.]ыдыр
+ stem: [.]ыдыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: N1
+
+-deriv-type: N-idyr2b
+ lex: [.]идыр
+ stem: [.]идыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: N1
+
+-deriv-type: N-idyr2c
+ lex: [.]эдыр
+ stem: [.]эдыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: N1
+
+-deriv-type: N-idyr2d
+ lex: [.]едыр
+ stem: [.]едыр.
+ gloss: COMP
+ gramm: +comp
+ paradigm: N1
+
+-deriv-type: X-es1
+ lex: [.]эс
+ stem: [.]эс
+ gloss: ADV
+ gramm: +adv
+
+-deriv-type: X-es2
+ lex: [.]ес
+ stem: [.]ес
+ gloss: ADV
+ gramm: +adv
+
+-deriv-type: V-v
+ lex: в[.]
+ stem: в[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-vz
+ lex: вз[.]
+ stem: вз[.].//воз[.].//вс[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-vy
+ lex: вы[.]
+ stem: вы[.].//ви.[.]
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-do
+ lex: до[.]
+ stem: до[.].//да[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-za
+ lex: за[.]
+ stem: за[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-iz
+ lex: из[.]
+ stem: из[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-nad
+ lex: над[.]
+ stem: над[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-ob
+ lex: об[.]
+ stem: об[.].//о[.].//аб[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-ot
+ lex: от[.]
+ stem: от[.].//ат[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-piri
+ lex: пири[.]
+ stem: пири[.].//пир[.].//пирь[.].//пере[.].//пиры[.].//пери[.].//пире[.].//пиръ[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-po
+ lex: по[.]
+ stem: по[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-pod
+ lex: под[.]
+ stem: под[.].//подъ[.].//пад[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-pri
+ lex: при[.]
+ stem: при[.].//пры[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-pro
+ lex: про[.]
+ stem: про[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-ros
+ lex: рос[.]
+ stem: роз[.].//рос[.].//рас[.].//раз[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-s
+ lex: с[.]
+ stem: с[.].//з[.].//зъ[.].//со[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: V-u
+ lex: у[.]
+ stem: у[.].
+ gloss: PREF
+ gramm: +pref
+
+-deriv-type: PRON-ni
+ lex: ни[.]
+ stem: ни[.].
+ gloss: NEG
+ gramm: +neg
+
+-deriv-type: PRON-vari
+ lex: вари[.]
+ stem: вари[.].
+ gloss: INDEF
+ gramm: +indef
