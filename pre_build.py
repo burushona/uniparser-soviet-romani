@@ -16,11 +16,11 @@ def collect_lemmata(dirName):
     lemmata = ''
     lexrules = ''
     for fname in os.listdir(dirName):
-        if fname.endswith('.txt') and fname.startswith('rom_lexemes_'):
+        if fname.endswith('.txt') and fname.startswith('rom_lexemes'):
             f = open(os.path.join(dirName, fname), 'r', encoding='utf-8-sig')
             lemmata += f.read() + '\n'
             f.close()
-        elif fname.endswith('.txt') and fname.startswith('rom_lexrules_'):
+        elif fname.endswith('.txt') and fname.startswith('rom_lexrules'):
             f = open(os.path.join(dirName, fname), 'r', encoding='utf-8-sig')
             lexrules += f.read() + '\n'
             f.close()
@@ -80,7 +80,7 @@ def prepare_files():
     fOutLemmataRus = open('uniparser_soviet_romani/data_nodiacritics/lexemes.txt', 'w', encoding='utf-8')
     fOutLemmataRus.write(remove_diacritics(lemmata))
     fOutLemmataRus.close()
-    fInParadigms = open('paradigms.txt', 'r', encoding='utf-8-sig')
+    fInParadigms = open('rom_paradigms.txt', 'r', encoding='utf-8-sig')
     paradigms = fInParadigms.read()
     fInParadigms.close()
     fOutParadigms = open('uniparser_soviet_romani/data_strict/paradigms.txt', 'w', encoding='utf-8')

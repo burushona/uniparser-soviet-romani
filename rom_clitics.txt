@@ -1,71 +1,83 @@
 ﻿-clitic
  lex: пэ
+ stem: пэ
  type: en
  gramm: self
  gloss: self
 
 -clitic
  lex: то
+ stem: то
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: нибудь
+ stem: нибудь
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: да
+ stem: да
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: ками
+ stem: ками
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: наяви
+ stem: наяви
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: на
+ stem: на
  type: pro
  gramm: NEG
  gloss: NEG
 
 -clitic
  lex: тэ
+ stem: тэ
  type: pro
  gramm: cl
  gloss: CONJ
 
 -clitic
  lex: о
+ stem: о
  type: pro
  gramm: cl
  gloss: ART
 
 -clitic
  lex: э
+ stem: э
  type: pro
  gramm: cl
  gloss: ART
 
 -clitic
  lex: о
+ stem: о
  type: en
  gramm: cl
  gloss: ART
 
 -clitic
  lex: э
+ stem: э
  type: en
  gramm: cl
  gloss: ART
