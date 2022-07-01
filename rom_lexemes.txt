@@ -26024,7 +26024,7 @@
 
 -lexeme
  lex: дэшуекх
- stem: дэшуекх.
+ stem: дэшуекх.//дэшуэкх.
  gramm: NUM
  paradigm: Adj7
  gloss: eleven
@@ -26033,7 +26033,7 @@
 
 -lexeme
  lex: дэшудуй
- stem: дэшудуй.//дэшуду.
+ stem: дэшудуй.//дэшуду.//дэшодуй.
  gramm: NUM
  paradigm: Adj7
  gloss: twelve
@@ -26051,7 +26051,7 @@
 
 -lexeme
  lex: дэшуштар
- stem: дэшуштар.
+ stem: дэшуштар.//дэшэштар.
  gramm: NUM
  paradigm: Adj7
  gloss: fourteen
@@ -26060,7 +26060,7 @@
 
 -lexeme
  lex: дэшупандж
- stem: дэшупандж.//дэшупанч.
+ stem: дэшупандж.//дэшупанч.//дэшупанджь.//дэшупанждь.
  gramm: NUM
  paradigm: Adj7
  gloss: fifteen
@@ -26120,6 +26120,24 @@
  gloss: thirty
  trans_ru: тридцать
  trans_en: thirty
+ 
+ -lexeme
+ lex: саранда
+ stem: саранда.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: fourty
+ trans_ru: сорок
+ trans_en: fourty
+ 
+  -lexeme
+ lex: штардэша
+ stem: штардэша.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: fourty
+ trans_ru: сорок
+ trans_en: fourty
 
 -lexeme
  lex: шэл
