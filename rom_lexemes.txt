@@ -25970,7 +25970,7 @@
 
 -lexeme
  lex: пандж
- stem: пандж.//панч.
+ stem: пандж.//панч.//панджь.//паньч.//паньджь.
  gramm: NUM
  paradigm: Adj7
  gloss: five
