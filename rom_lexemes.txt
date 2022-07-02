@@ -25427,6 +25427,24 @@
  gloss: from_far_away
  trans_ru: издалека
  trans_en: from far away
+ 
+ -lexeme
+ lex: пэзал
+ stem: пэзал.//прэзал.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: by_foot
+ trans_ru: пешком
+ trans_en: by foot
+
+-lexeme
+ lex: аври.
+ stem: аври.//яври.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: outside
+ trans_ru: снаружи
+ trans_en: outside
 
 -lexeme
  lex: ивья
@@ -25529,7 +25547,7 @@
 
 -lexeme
  lex: одотыр
- stem: одотыр.//дотыр.
+ stem: одотыр.//дотыр.//одотхыр.
  gramm: Adv
  paradigm: ZERO
  gloss: from_there
@@ -25679,6 +25697,24 @@
  gloss: so
  trans_ru: вот
  trans_en: so
+ 
+ -lexeme
+ lex: энакэ
+ stem: энакэ.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: so
+ trans_ru: вот
+ trans_en: so
+ 
+ -lexeme
+ lex: всегда
+ stem: всегда.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: always
+ trans_ru: всегда
+ trans_en: always
 
 -lexeme
  lex: та
@@ -26033,7 +26069,7 @@
 
 -lexeme
  lex: дэшудуй
- stem: дэшудуй.//дэшуду.//дэшодуй.
+ stem: дэшудуй.//дэшуду.//дэшодуй.//дэшоду.
  gramm: NUM
  paradigm: Adj7
  gloss: twelve
@@ -26042,7 +26078,7 @@
 
 -lexeme
  lex: дэшутрин
- stem: дэшутрин.
+ stem: дэшутрин.//дэшутри.
  gramm: NUM
  paradigm: Adj7
  gloss: thirteen
@@ -26060,7 +26096,7 @@
 
 -lexeme
  lex: дэшупандж
- stem: дэшупандж.//дэшупанч.//дэшупанджь.//дэшупанждь.
+ stem: дэшупандж.//дэшупанч.//дэшупанджь.//дэшупанждь.//дэшопанжд.//дэшупаньч.
  gramm: NUM
  paradigm: Adj7
  gloss: fifteen
@@ -26078,7 +26114,7 @@
 
 -lexeme
  lex: дэшуэфта
- stem: дэшуэфта.
+ stem: дэшуэфта.//дэшуефт.
  gramm: NUM
  paradigm: Adj7
  gloss: seventeen
@@ -26122,6 +26158,15 @@
  trans_en: thirty
  
  -lexeme
+ lex: триндэша
+ stem: триндэша.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: thirty
+ trans_ru: тридцать
+ trans_en: thirty
+ 
+ -lexeme
  lex: саранда
  stem: саранда.
  gramm: NUM
@@ -26130,7 +26175,7 @@
  trans_ru: сорок
  trans_en: fourty
  
-  -lexeme
+ -lexeme
  lex: штардэша
  stem: штардэша.
  gramm: NUM
@@ -26138,6 +26183,42 @@
  gloss: fourty
  trans_ru: сорок
  trans_en: fourty
+ 
+ -lexeme
+ lex: пандждэша
+ stem: пандждэша.//панчдэша.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: fifty
+ trans_ru: пятьдесят
+ trans_en: fifty
+ 
+ -lexeme
+ lex: шовдэша
+ stem: шовдэша.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: sixty
+ trans_ru: шестьдесят
+ trans_en: sixty
+ 
+ -lexeme
+ lex: эфтадэша
+ stem: эфтадэша.//ефтадэша.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: seventy
+ trans_ru: семьдесят
+ trans_en: seventy
+ 
+ -lexeme
+ lex: охтодэша
+ stem: охтодэша.
+ gramm: NUM
+ paradigm: Adj7
+ gloss: eighty
+ trans_ru: восемьдесят
+ trans_en: eighty
 
 -lexeme
  lex: шэл
