@@ -9356,6 +9356,7 @@
  trans_en: get fat
 
 -lexeme
+ lex: тырдэл
  stem: тырд.//тэрд.
  gramm: V
  paradigm: V5
@@ -25453,6 +25454,15 @@
  gloss: for_free
  trans_ru: бесплатно
  trans_en: for free
+
+-lexeme
+ lex: чячё
+ stem: чячё.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: really
+ trans_ru: правда
+ trans_en: really
 
 -lexeme
  lex: пофроми
