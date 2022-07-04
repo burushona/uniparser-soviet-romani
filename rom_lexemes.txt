@@ -9356,7 +9356,6 @@
  trans_en: get fat
 
 -lexeme
- lex: тырдэл
  stem: тырд.//тэрд.
  gramm: V
  paradigm: V5
@@ -9375,7 +9374,7 @@
 
 -lexeme
  lex: тэрдёл
- stem: тэрд.
+ stem: тэрд.//тырд.
  gramm: V
  paradigm: V9
  gloss: become
@@ -9384,7 +9383,7 @@
 
 -lexeme
  lex: тэрдякирэл
- stem: тэрдякир.
+ stem: тэрдякир.//тырдякир.
  gramm: V
  paradigm: V2
  gloss: stop
@@ -20607,7 +20606,7 @@
 
 -lexeme
  lex: фэлда
- stem: фэлд.
+ stem: фэлд.//фелд.
  gramm: N
  paradigm: N13
  gloss: field
@@ -20616,7 +20615,7 @@
 
 -lexeme
  lex: фэнштра
- stem: фэнштр.//фэнчтр.//фрэнчт
+ stem: фэнштр.//фэнчтр.//фрэнчт.//фенштр.//фенчтр.//фэнтштр.
  gramm: N
  paradigm: N13
  gloss: window
