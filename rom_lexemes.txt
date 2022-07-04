@@ -26114,7 +26114,7 @@
 
 -lexeme
  lex: дэшуэфта
- stem: дэшуэфта.//дэшуефт.
+ stem: дэшуэфта.//дэшуефт.//дэшуефта.
  gramm: NUM
  paradigm: Adj7
  gloss: seventeen
@@ -26132,7 +26132,7 @@
 
 -lexeme
  lex: дэшуинья
- stem: дэшуинья.
+ stem: дэшуинья.//дэшуеня.//дэшуен.
  gramm: NUM
  paradigm: Adj7
  gloss: nineteen
