@@ -25428,7 +25428,7 @@
  trans_ru: издалека
  trans_en: from far away
  
- -lexeme
+-lexeme
  lex: пэзал
  stem: пэзал.//прэзал.
  gramm: Adv
@@ -25698,7 +25698,7 @@
  trans_ru: вот
  trans_en: so
  
- -lexeme
+-lexeme
  lex: энакэ
  stem: энакэ.
  gramm: Adv
@@ -25707,7 +25707,7 @@
  trans_ru: вот
  trans_en: so
  
- -lexeme
+-lexeme
  lex: всегда
  stem: всегда.
  gramm: Adv
@@ -26157,7 +26157,7 @@
  trans_ru: тридцать
  trans_en: thirty
  
- -lexeme
+-lexeme
  lex: триндэша
  stem: триндэша.
  gramm: NUM
@@ -26166,7 +26166,7 @@
  trans_ru: тридцать
  trans_en: thirty
  
- -lexeme
+-lexeme
  lex: саранда
  stem: саранда.
  gramm: NUM
@@ -26175,7 +26175,7 @@
  trans_ru: сорок
  trans_en: fourty
  
- -lexeme
+-lexeme
  lex: штардэша
  stem: штардэша.
  gramm: NUM
@@ -26184,7 +26184,7 @@
  trans_ru: сорок
  trans_en: fourty
  
- -lexeme
+-lexeme
  lex: пандждэша
  stem: пандждэша.//панчдэша.
  gramm: NUM
@@ -26193,7 +26193,7 @@
  trans_ru: пятьдесят
  trans_en: fifty
  
- -lexeme
+-lexeme
  lex: шовдэша
  stem: шовдэша.
  gramm: NUM
@@ -26202,7 +26202,7 @@
  trans_ru: шестьдесят
  trans_en: sixty
  
- -lexeme
+-lexeme
  lex: эфтадэша
  stem: эфтадэша.//ефтадэша.
  gramm: NUM
@@ -26211,7 +26211,7 @@
  trans_ru: семьдесят
  trans_en: seventy
  
- -lexeme
+-lexeme
  lex: охтодэша
  stem: охтодэша.
  gramm: NUM
