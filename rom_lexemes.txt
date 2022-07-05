@@ -242,6 +242,15 @@
  trans_en: Saratov
 
 -lexeme
+ lex: святло
+ stem: святл.
+ gramm: ADJ
+ paradigm: Adj2
+ gloss: light
+ trans_ru: светлый
+ trans_en: light
+
+-lexeme
  lex: северно
  stem: северн.
  gramm: ADJ
@@ -431,6 +440,15 @@
  trans_en: well
 
 -lexeme
+ lex: аи
+ stem: аи.
+ gramm: PART
+ paradigm: ZERO
+ gloss: yes
+ trans_ru: да
+ trans_en: yes
+
+-lexeme
  lex: даже
  stem: дажэ.//даже.
  gramm: PART
@@ -459,7 +477,7 @@
 
 -lexeme
  lex: жэ
- stem: жэ.//ж.
+ stem: жэ.//ж.//же.
  gramm: PART
  paradigm: ZERO
  gloss: so
@@ -18181,7 +18199,7 @@
 
 -lexeme
  lex: рашай
- stem: рашай.//раш.
+ stem: рашай.//раш.//раша.
  gramm: N
  paradigm: N10
  gloss: priest
@@ -18574,6 +18592,15 @@
  gloss: row
  trans_ru: ряд
  trans_en: row
+
+-lexeme
+ lex: сабэ
+ stem: сабэ.//сабэн.//сабн.
+ gramm: N
+ paradigm: N5
+ gloss: laughter
+ trans_ru: смех
+ trans_en: laughter
 
 -lexeme
  lex: садо
@@ -25402,6 +25429,15 @@
  trans_en: then
 
 -lexeme
+ lex: екхвар
+ stem: екхвар.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: once
+ trans_ru: однажды
+ trans_en: once
+
+-lexeme
  lex: дадывэс.
  stem: дадывэс.//ададывэс.
  gramm: Adv
@@ -25547,7 +25583,7 @@
 
 -lexeme
  lex: адатыр
- stem: адатыр.//датыр.
+ stem: адатыр.//датыр.//адатхыр.
  gramm: Adv
  paradigm: ZERO
  gloss: from_here
@@ -25610,7 +25646,7 @@
 
 -lexeme
  lex: ужэ
- stem: ужэ.
+ stem: ужэ.//уже.
  gramm: Adv
  paradigm: ZERO
  gloss: already
@@ -25621,7 +25657,7 @@
  lex: бут
  stem: бут.//бу.
  gramm: Adv
- paradigm: Adj1
+ paradigm: Adj7
  gloss: a_lot
  trans_ru: много
  trans_en: a lot
@@ -25634,6 +25670,15 @@
  gloss: little
  trans_ru: немного
  trans_en: little
+
+-lexeme
+ lex: екхатыр
+ stem: екхатыр.//экхатыр.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: at_once
+ trans_ru: сразу
+ trans_en: at once
 
 -lexeme
  lex: кхэрэ
