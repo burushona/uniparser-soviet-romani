@@ -14,7 +14,7 @@
 
 -deriv-type: V-ptcp3
  lex: [.]д
- stem: [.]д.
+ stem: [.]д.//[.]дл.
  gloss: PTCP
  gramm: +ptcp
  paradigm: Adj1

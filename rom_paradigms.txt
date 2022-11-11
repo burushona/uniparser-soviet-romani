@@ -16,6 +16,8 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
+ deriv-type: PRON-ni
+ deriv-type: PRON-vari
 -paradigm: V1
  -flex: .ав//.ава//.ам//.яв//.ява
   gramm: 1,sg,prs
