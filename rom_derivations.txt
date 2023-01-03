@@ -21,7 +21,7 @@
 
 -deriv-type: V-ptcp4
  lex: [.]н
- stem: [.]н.
+ stem: [.]н.//[.]ын.
  gloss: PTCP
  gramm: +ptcp
  paradigm: Adj1
@@ -40,7 +40,7 @@
 
 -deriv-type: V-cvb3
  lex: [.]ыи
- stem: [.]ыи
+ stem: [.]ыи//[.]ии
  gloss: CVB
  gramm: +cvb
 
@@ -52,7 +52,7 @@
 
 -deriv-type: V-cvb5
  lex: [.]ови
- stem: [.]ови
+ stem: [.]ови//[.]ёви
  gloss: CVB
  gramm: +cvb
 
@@ -198,14 +198,14 @@
 
 -deriv-type: N-im1
  lex: [.]ыма
- stem: [.]ыма.
+ stem: [.]ым.
  gloss: ABSTR
  gramm: +abstr
  paradigm: N13
 
 -deriv-type: N-im2
  lex: [.]има
- stem: [.]има.
+ stem: [.]им.
  gloss: ABSTR
  gramm: +abstr
  paradigm: N13
@@ -259,19 +259,12 @@
  gramm: +dim
  paradigm: N11
 
--deriv-type: N-ink1
+-deriv-type: N-ink
  lex: [.]иньк
- stem: [.]иньк.
+ stem: [.]иньк[.]
  gloss: DIM
  gramm: +dim
- paradigm: N11
-
--deriv-type: N-ink2
- lex: [.]иньк
- stem: [.]иньк.
- gloss: DIM
- gramm: +dim
- paradigm: N2
+ paradigm: Adj2
 
 -deriv-type: N-ovat
  lex: [.]оват
@@ -285,14 +278,14 @@
  stem: [.]ытк.
  gloss: ADJ
  gramm: +adj
- paradigm: Adj1
+ paradigm: Adj2
 
 -deriv-type: N-itk2
  lex: [.]итк
  stem: [.]итк.
  gloss: ADJ
  gramm: +adj
- paradigm: Adj1
+ paradigm: Adj2
 
 -deriv-type: N-an
  lex: [.]ан
@@ -515,6 +508,13 @@
  gloss: ADV
  gramm: +adv
 
+-deriv-type: NUM-t
+ lex: [.]т[.]
+ stem: [.]т[.].
+ gloss: NUM
+ gramm: +ord
+ paradigm: Adj2
+
 -deriv-type: V-v
  lex: в[.]
  stem: в[.].
@@ -616,15 +616,3 @@
  stem: у[.].
  gloss: PREF
  gramm: +pref
-
--deriv-type: PRON-ni
- lex: ни[.]
- stem: ни[.].
- gloss: NEG
- gramm: +neg
-
--deriv-type: PRON-vari
- lex: вари[.]
- stem: вари[.].
- gloss: INDEF
- gramm: +indef

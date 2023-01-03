@@ -6,15 +6,29 @@
  gloss: self
 
 -clitic
+ lex: же
+ stem: же//ж//жэ
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: бы
+ stem: бы//-бы
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
  lex: то
- stem: то
+ stem: то//-то
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: нибудь
- stem: нибудь
+ stem: .нибудь
  type: en
  gramm: cl
  gloss: INDEF
@@ -34,6 +48,13 @@
  gloss: INDEF
 
 -clitic
+ lex: кой
+ stem: кой.//кой-.
+ type: pro
+ gramm: cl
+ gloss: INDEF
+
+-clitic
  lex: наяви
  stem: наяви
  type: en
@@ -48,6 +69,13 @@
  gloss: NEG
 
 -clitic
+ lex: ни
+ stem: ни
+ type: pro
+ gramm: NEG
+ gloss: NEG
+
+-clitic
  lex: тэ
  stem: тэ
  type: pro
@@ -56,14 +84,7 @@
 
 -clitic
  lex: о
- stem: о
- type: pro
- gramm: cl
- gloss: ART
-
--clitic
- lex: э
- stem: э
+ stem: о.//о-.
  type: pro
  gramm: cl
  gloss: ART
@@ -72,6 +93,13 @@
  lex: о
  stem: о
  type: en
+ gramm: cl
+ gloss: ART
+
+-clitic
+ lex: э
+ stem: э.//э-.
+ type: pro
  gramm: cl
  gloss: ART
 

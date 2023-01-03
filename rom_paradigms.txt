@@ -1,5 +1,10 @@
 ﻿-paradigm: ZERO
  -flex: .
+ -flex: .иньк<.>
+  gramm: dim
+  gloss: DIM
+  paradigm: Adj2
+ paradigm: Clitics
  deriv-link: V-iskir1
  deriv-link: V-iskir2
  deriv-link: V-in1
@@ -16,8 +21,9 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
- deriv-type: PRON-ni
- deriv-type: PRON-vari
+ deriv-link: X-atun
+ deriv-type: N-ink
+
 -paradigm: V1
  -flex: .ав//.ава//.ам//.яв//.ява
   gramm: 1,sg,prs
@@ -76,9 +82,13 @@
  -flex: .
   gramm: sg,imp
   gloss: IMP.SG
- -flex: .эн|те//.эн|тэ//.ен|те//.ень|те
+ -flex: .эн|те//.эн|тэ//.ен|те//.ень|те//.энь|те
   gramm: pl,imp
   gloss: 2PL|IMP
+ -flex: .эндой//.эндой//.ындой
+  gramm: conv
+  gloss: CONV
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -99,6 +109,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -116,11 +131,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V2
  -flex: .ав//.ава
   gramm: 1,sg,prs
@@ -182,6 +193,7 @@
  -flex: .эн//.эн|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -202,6 +214,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -219,11 +236,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V3
  -flex: .ав//.ава//.ом
   gramm: 1,sg,prs
@@ -285,6 +298,7 @@
  -flex: .эн//.эн|те//.энь|те//.ен|те//.эн|тэ
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -309,6 +323,11 @@
  deriv-type: V-iskir2
  deriv-type: V-in2
  deriv-type: V-in1
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -326,11 +345,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V4
  -flex: .ав//.ава//.яв//.ява
   gramm: 1,sg,prs
@@ -392,6 +407,7 @@
  -flex: .эн//.эн|те//.ен//.ен|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -412,6 +428,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -429,11 +450,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V5
  -flex: .ав//.ава
   gramm: 1,sg,prs
@@ -492,9 +509,10 @@
  -flex: .э
   gramm: sg,imp
   gloss: IMP.SG
- -flex: .эн//.эн|те//.эн|тэ
+ -flex: .эн//.эн|те//.эн|тэ//.энь|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -515,6 +533,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -532,11 +555,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V6
  -flex: .ав//.ава
   gramm: 1,sg,prs
@@ -598,6 +617,7 @@
  -flex: .эн//.эн|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -618,6 +638,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -635,11 +660,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V7
  -flex: .ав//.ава
   gramm: 1,sg,prs
@@ -701,6 +722,7 @@
  -flex: .ан//.ан|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -721,6 +743,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -738,11 +765,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V8
  -flex: .яв//.ява//.ав//.ава
   gramm: 1,sg,prs
@@ -804,6 +827,10 @@
  -flex: .ян//.ян|те//.ан//.ан|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ -flex: .ындой//.ындуй
+  gramm: conv
+  gloss: CONV
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -824,6 +851,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -841,11 +873,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V9
  -flex: .ёвав//.ёвава//.овав//.овава//.евав//.евава
   gramm: 1,sg,prs
@@ -904,9 +932,13 @@
  -flex: .ёв//.ов
   gramm: sg,imp
   gloss: IMP.SG
- -flex: .ён//.ён|те//.он//.он|те//.ёвэн|те
+ -flex: .ён//.ён|те//.он//.он|те//.ёвэн|те//.ёвэнь|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ -flex: .индой//.ындой
+  gramm: conv
+  gloss: CONV
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -927,6 +959,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -944,11 +981,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V10
  -flex: .овав//.овава
   gramm: 1,sg,prs
@@ -1010,6 +1043,7 @@
  -flex: .он//.он|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1033,6 +1067,11 @@
  deriv-type: V-iso1
  deriv-type: V-iso2
  deriv-type: V-iso3
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -1050,11 +1089,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V11
  -flex: .яв//.ява
   gramm: 1,sg,prs
@@ -1083,6 +1118,7 @@
  -flex: .ы|я//.и|я//.э|я//.е|я
   gramm: 3,sg,pst
   gloss: PST|3SG
+  paradigm: Preverbs
  -flex: .ы|ям//.и|ям//.э|ям
   gramm: 1,pl,pst
   gloss: PST|1PL
@@ -1116,6 +1152,7 @@
  -flex: .ян//.ян|те//.ян|тэ//.янь|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1136,6 +1173,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -1153,11 +1195,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V12
  -flex: .ав//.ава
   gramm: 1,sg,prs
@@ -1219,6 +1257,7 @@
  -flex: .эн//.эн|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1239,6 +1278,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -1256,11 +1300,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V13
  -flex: .ав//.ава
   gramm: 1,sg,prs
@@ -1322,6 +1362,7 @@
  -flex: .ан//.ан|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1342,6 +1383,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -1359,11 +1405,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V14
  -flex: .яв//.ява
   gramm: 1,sg,prs
@@ -1425,6 +1467,7 @@
  -flex: .ен//.ен|те
   gramm: pl,imp
   gloss: 2PL//2PL|IMP
+ paradigm: Preverbs
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1445,6 +1488,11 @@
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
+ deriv-link: V-cvb1
+ deriv-link: V-cvb2
+ deriv-link: V-cvb3
+ deriv-link: V-cvb4
+ deriv-link: V-cvb5
  deriv-link: V-v
  deriv-type: V-vz
  deriv-link: V-vy
@@ -1462,11 +1510,7 @@
  deriv-link: V-ros
  deriv-link: V-s
  deriv-link: V-u
- deriv-link: V-cvb1
- deriv-link: V-cvb2
- deriv-link: V-cvb3
- deriv-link: V-cvb4
- deriv-link: V-cvb5
+
 -paradigm: V15
  -flex: .ом
   gramm: 1,sg,prs
@@ -1504,23 +1548,58 @@
  -flex: .ыс
   gramm: 3,pl,pst
   gloss: PST.3PL
+
 -paradigm: N1
  -flex: .
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .эс<.>
+ -flex: .эс//.ес
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .э|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .эскир<.>//.эскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .эскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .эса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .эстэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .эстыр//.естыр//.эстэр
+  gramm: m,abl,sg
+  gloss: ABL.SG
+ -flex: .а
+  gramm: voc,sg,m
+  gloss: VOC.SG
  -flex: .а
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>
+ -flex: .эн
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.энса
+  gramm: m,ins,pl
+  gloss: INS.PL
+ -flex: .алэ
+  gramm: m,voc,pl
+  gloss: VOC.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1548,8 +1627,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1567,23 +1645,58 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N2
  -flex: .о//.ё
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .эс<.>//.ес<.>
+ -flex: .эс//.ес
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .э|са//.е|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .эскир<.>//.эскр<.>//.ескир<.>//.ескр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .эскэ//.ескэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .эса//.еса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .эстэ//.естэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .эстыр//.естыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
+ -flex: .а
+  gramm: voc,sg,m
+  gloss: VOC.SG
  -flex: .э//.е
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>//.ен<.>
+ -flex: .эн//.ен
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>//.енгир<.>//.енгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр//.ендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ//.енгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ//.ендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.енца//.энса//.енса
+  gramm: m,ins,pl
+  gloss: INS.PL
+ -flex: .алэ//.ялэ
+  gramm: m,voc,pl
+  gloss: VOC.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1611,8 +1724,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1630,23 +1742,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N3
- -flex: .о//.ё
+ -flex: .о//.ё//.е
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ос<.>//.ёс<.>
+ -flex: .ос//.ёс
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .о|са//.ё|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
- -flex: .ы//.и
+ -flex: .оскир<.>//.оскр<.>//.ёскир<.>//.ёскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .оскэ//.ёскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .оса//.ёса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .остэ//.ёстэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .остыр//.ёстыр//.ёстэр//.остэр
+  gramm: m,abl,sg
+  gloss: ABL.SG
+ -flex: .ы//.и//.э
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>//.ен<.>
+ -flex: .эн//.ен
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>//.енгир<.>//.енгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр//.ендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ//.енгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ//.ендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.енца//.энса//.енса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1674,8 +1815,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1693,23 +1833,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N4
  -flex: .и
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ис<.>
+ -flex: .ис
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .и|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .искир<.>//.искр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .искэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .иса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .истэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .истыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .ья//.я
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .ьен<.>//.ен<.>
+ -flex: .ьен//.ен//.эн
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .енгир<.>//.енгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .ьендыр//.ендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .ьенгэ//.енгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .ьендэ//.ендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .ьенца//.енца//.ьенса//.енса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1737,8 +1906,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1756,23 +1924,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N5
  -flex: .
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ас<.>
+ -flex: .ас
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .а|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .аскир<.>//.аскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .аскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .аса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .астэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .астыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .а
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>
+ -flex: .эн
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.энса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1800,8 +1997,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1819,23 +2015,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N6
  -flex: .а//.я
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ас<.>//яс<.>
+ -flex: .ас//.яс
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .а|са//.я|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .аскир<.>//.аскр<.>//.яскир<.>//.яскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .аскэ//.яскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .аса//.яса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .астэ//.ястэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .астыр//.ястыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .ы//.и
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>//.ен<.>
+ -flex: .эн//.ен
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>//.енгир<.>//.енгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр//.ендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ//.енгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ//.ендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.енца//.энса//.енса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1863,8 +2088,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1882,23 +2106,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N7
  -flex: .о
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ос<.>
+ -flex: .ос
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .о|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .оскир<.>//.оскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .оскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .оса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .остэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .остыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .ья
   gramm: m,dir,pl
   gloss: DIR.PL
  -flex: .ьен<.>
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .ьенгир<.>//.ьенгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .ьендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .ьенгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .ьендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .ьенца//.ьенса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1926,8 +2179,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -1945,23 +2197,55 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N8
  -flex: .у//.ю
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ус<.>//.юс<.>
+ -flex: .ус//.юс
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .у|са//.ю|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .ускир<.>//.ускр<.>//.юскир<.>//.юскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .ускэ//.юскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .уса//.юса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .устэ//.юстэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .устыр//.юстыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
+ -flex: .уса//.юса
+  gramm: m,sg,ins
+  gloss: INS.SG
  -flex: .ы
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>
+ -flex: .эн
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.энса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -1989,8 +2273,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2008,23 +2291,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N9
  -flex: .
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ос<.>//.ес<.>
+ -flex: .ос//.ес
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .о|са//.е|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .оскир<.>//.оскр<.>//.ескир<.>//.ескр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .оскэ//.ескэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .оса//.еса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .остэ//.естэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .остыр//.естыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .я
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .ен<.>
+ -flex: .ен
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .енгир<.>//.енгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .ендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .енгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .ендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .енца//.енса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -2052,8 +2364,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2071,35 +2382,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N10
  -flex: .
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ас<.>//.ес<.>//.эс<.>
+ -flex: .ас//.ес//.эс
   gramm: m,obl,sg
   gloss: OBL.SG
- -flex: .а|са//.е|са//.э|са
-  gramm: m,obl,sg,ins
-  gloss: [OBL]|INS
+ -flex: .аскир<.>//.аскр<.>//.ескир<.>//.ескр<.>//.эскир<.>//.эскр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .аскэ//.ескэ//.эскэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .аса//.еса//.эса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .астэ//.естэ//.эстэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .астыр//.естыр//.эстыр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .я
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .ан<.>//.ен<.>//.эн<.>
+ -flex: .ан//.ен//.эн
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
- deriv-link: N-iben1
- deriv-link: N-iben2
- deriv-link: N-iben3
- deriv-link: N-iben4
- deriv-link: N-iben5
- deriv-link: N-iben6
- deriv-link: N-iben7
- deriv-link: N-iben8
- deriv-link: N-iben9
- deriv-link: N-iben10
- deriv-link: N-iben11
- deriv-link: N-iben12
+ -flex: .ангир<.>//.ангр<.>//.енгир<.>//.енгр<.>//.энгир<.>//.энгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .андыр//.ендыр//.эндыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .ангэ//.енгэ//.энгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .андэ//.ендэ//.эндэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .анца//.енца//.энца//.анса//.енса//.энса
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-ar1
  deriv-link: N-ar2
  deriv-link: N-or1a
@@ -2115,8 +2443,6 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2134,6 +2460,7 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N11
  -flex: .
   gramm: f,dir,sg
@@ -2141,13 +2468,44 @@
  -flex: .а<.>//.я<.>//.ья<.>
   gramm: f,obl,sg
   gloss: OBL.SG
+ -flex: .акир<.>//.акр<.>//.якир<.>//.якр<.>//.ьякир<.>//.ьякр<.>
+  gramm: f,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .акэ//.якэ//.ьякэ
+  gramm: f,dat,sg
+  gloss: DAT.SG
+ -flex: .аса//.яса//.ьяса
+  gramm: f,sg,ins
+  gloss: INS.SG
+ -flex: .атэ//.ятэ//.ьятэ
+  gramm: f,loc,sg
+  gloss: LOC.SG
+ -flex: .атыр//.ятыр//.ьятыр
+  gramm: f,abl,sg
+  gloss: ABL.SG
  -flex: .а//.я//.ья
   gramm: f,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>//.ен<.>//.ьен<.>
+ -flex: .эн//.ен//.ьен
   gramm: f,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>//.енгир<.>//.енгр<.>//.ьенгир<.>//.ьенгр<.>
+  gramm: f,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр//.ендыр//.ьендыр
+  gramm: f,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ//.енгэ//.ьенгэ
+  gramm: f,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ//.ендэ//.ьендэ
+  gramm: f,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.енца//.ьенца//.энса//.енса//.ьенса
+  gramm: f,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -2175,8 +2533,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2194,20 +2551,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N12
  -flex: .и//.ы
   gramm: f,dir,sg
   gloss: DIR.SG
- -flex: .я<.>//.ья<.>
+ -flex: .я//.ья
   gramm: f,obl,sg
   gloss: OBL.SG
+ -flex: .якир<.>//.якр<.>//.ьякир<.>//.ьякр<.>
+  gramm: f,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .якэ//.ьякэ
+  gramm: f,dat,sg
+  gloss: DAT.SG
+ -flex: .яса//.ьяса
+  gramm: f,sg,ins
+  gloss: INS.SG
+ -flex: .ятэ//.ьятэ
+  gramm: f,loc,sg
+  gloss: LOC.SG
+ -flex: .ятыр//.ьятыр
+  gramm: f,abl,sg
+  gloss: ABL.SG
  -flex: .я//.ья
   gramm: f,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>//.ен<.>//.ьен<.>
+ -flex: .эн//.ен//.ьен
   gramm: f,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>//.енгир<.>//.енгр<.>//.ьенгир<.>//.ьенгр<.>
+  gramm: f,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр//.ендыр//.ьендыр
+  gramm: f,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ//.енгэ//.ьенгэ
+  gramm: f,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ//.ендэ//.ьендэ
+  gramm: f,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.енца//.ьенца//.энса//.енса//.ьенса
+  gramm: f,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -2235,8 +2624,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2254,20 +2642,52 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N13
  -flex: .а//.я
   gramm: f,dir,sg
   gloss: DIR.SG
- -flex: .а<.>//.я<.>
+ -flex: .а//.я
   gramm: f,obl,sg
   gloss: OBL.SG
+ -flex: .акир<.>//.акр<.>//.якир<.>//.якр<.>
+  gramm: f,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .акэ//.якэ
+  gramm: f,dat,sg
+  gloss: DAT.SG
+ -flex: .аса//.яса
+  gramm: f,sg,ins
+  gloss: INS.SG
+ -flex: .атэ//.ятэ
+  gramm: f,loc,sg
+  gloss: LOC.SG
+ -flex: .атыр//.ятыр
+  gramm: f,abl,sg
+  gloss: ABL.SG
  -flex: .ы//.и
   gramm: f,dir,pl
   gloss: DIR.PL
- -flex: .эн<.>//.ен<.>
+ -flex: .эн//.ен
   gramm: f,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .энгир<.>//.энгр<.>//.енгир<.>//.енгр<.>
+  gramm: f,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .эндыр//.ендыр
+  gramm: f,abl,pl
+  gloss: ABL.PL
+ -flex: .энгэ//.енгэ
+  gramm: f,dat,pl
+  gloss: DAT.PL
+ -flex: .эндэ//.ендэ
+  gramm: f,loc,pl
+  gloss: LOC.PL
+ -flex: .энца//.енца//.энса//.енса
+  gramm: f,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -2295,8 +2715,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2314,6 +2733,7 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N14
  -flex: .
   gramm: f,dir,sg
@@ -2321,13 +2741,44 @@
  -flex: .я<.>
   gramm: f,obl,sg
   gloss: OBL.SG
+ -flex: .якир<.>//.якр<.>
+  gramm: f,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .якэ
+  gramm: f,dat,sg
+  gloss: DAT.SG
+ -flex: .яса
+  gramm: f,sg,ins
+  gloss: INS.SG
+ -flex: .ятэ
+  gramm: f,loc,sg
+  gloss: LOC.SG
+ -flex: .ятыр
+  gramm: f,abl,sg
+  gloss: ABL.SG
  -flex: .и
   gramm: f,dir,pl
   gloss: DIR.PL
- -flex: .ен<.>
+ -flex: .ен
   gramm: f,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .енгир<.>//.енгр<.>
+  gramm: f,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .ендыр
+  gramm: f,abl,pl
+  gloss: ABL.PL
+ -flex: .енгэ
+  gramm: f,dat,pl
+  gloss: DAT.PL
+ -flex: .ендэ
+  gramm: f,loc,pl
+  gloss: LOC.PL
+ -flex: .енца
+  gramm: f,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -2355,8 +2806,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2374,20 +2824,49 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N15
- -flex: .ы
+ -flex: .ы//.и
   gramm: m,dir,sg
   gloss: DIR.SG
- -flex: .ес<.>
-  gramm: m,obl,sg
-  gloss: OBL.SG
+ -flex: .ескир<.>//.ескр<.>
+  gramm: m,gen,sg
+  gloss: GEN.SG
+  paradigm: Adj1
+ -flex: .ескэ
+  gramm: m,dat,sg
+  gloss: DAT.SG
+ -flex: .еса//.яса
+  gramm: m,sg,ins
+  gloss: INS.SG
+ -flex: .естэ
+  gramm: m,loc,sg
+  gloss: LOC.SG
+ -flex: .естыр//.ятыр//.ятэр
+  gramm: m,abl,sg
+  gloss: ABL.SG
  -flex: .я
   gramm: m,dir,pl
   gloss: DIR.PL
- -flex: .ен<.>
+ -flex: .ен
   gramm: m,obl,pl
   gloss: OBL.PL
- paradigm: N1-case
+ -flex: .енгир<.>//.енгр<.>
+  gramm: m,gen,pl
+  gloss: GEN.PL
+  paradigm: Adj1
+ -flex: .ендыр
+  gramm: m,abl,pl
+  gloss: ABL.PL
+ -flex: .енгэ
+  gramm: m,dat,pl
+  gloss: DAT.PL
+ -flex: .ендэ
+  gramm: m,loc,pl
+  gloss: LOC.PL
+ -flex: .енца
+  gramm: m,ins,pl
+  gloss: INS.PL
  deriv-link: N-iben1
  deriv-link: N-iben2
  deriv-link: N-iben3
@@ -2415,8 +2894,7 @@
  deriv-link: N-ic2b
  deriv-link: N-ushk1
  deriv-link: N-ushk2
- deriv-link: N-ink1
- deriv-link: N-ink2
+ deriv-link: N-ink
  deriv-link: N-ovat
  deriv-link: N-itk1
  deriv-link: N-itk2
@@ -2434,6 +2912,7 @@
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: X-atun
+
 -paradigm: N1-case
  -flex: .
   gramm: 
@@ -2462,6 +2941,7 @@
  -flex: .алэ//.ялэ
   gramm: voc,pl
   gloss: VOC.PL
+
 -paradigm: Adj1
  -flex: .о//.ё
   gramm: m,dir,sg
@@ -2472,10 +2952,10 @@
  -flex: .э//.е
   gramm: obl
   gloss: OBL
- -flex: .эс<.>//.ес<.>
+ -flex: .эс//.ес//.эс<.>//.ес<.>
   gramm: m,obl,sg
   gloss: M.OBL.SG
- -flex: .ья<.>
+ -flex: .ья//.я//.ья<.>//.я<.>
   gramm: f,obl,sg
   gloss: F.OBL.SG
  -flex: .э//.е
@@ -2487,6 +2967,10 @@
  -flex: .ен<.>
   gramm: f,obl,pl
   gloss: F.OBL.PL
+ -flex: .иньк<.>//.инк<.>
+  gramm: dim
+  gloss: DIM
+  paradigm: Adj2
  paradigm: N2-case
  deriv-link: X-es1
  deriv-link: X-es2
@@ -2502,7 +2986,6 @@
  deriv-link: N-im1
  deriv-link: N-im2
  deriv-link: N-car
- deriv-link: PRON-vari
  deriv-link: N-idyr1a
  deriv-link: N-idyr1b
  deriv-link: N-idyr1c
@@ -2511,6 +2994,8 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
+ deriv-link: N-ink
+
 -paradigm: Adj2
  -flex: .о//.ё
   gramm: dir,sg
@@ -2518,19 +3003,24 @@
  -flex: .онэ//.ёнэ
   gramm: obl
   gloss: OBL
- -flex: .онэс<.>//.ёнэс<.>
+ -flex: .онэс//.ёнэс//.онэс<.>//.ёнэс<.>
   gramm: m,obl,sg
   gloss: M.OBL.SG
- -flex: .она<.>//.ёна<.>
+ -flex: .она//.ёна//.она<.>//.ёна<.>
   gramm: f,obl,sg
   gloss: F.OBL.SG
  -flex: .а//.я
   gramm: dir,pl
   gloss: DIR.PL
- -flex: .онэн<.>//.ёнэн<.>
+ -flex: .онэн//.ёнэн//.онэн<.>//.ёнэн<.>
   gramm: obl,pl
   gloss: OBL.PL
+ -flex: .иньк<.>
+  gramm: dim
+  gloss: DIM
+  paradigm: Adj2
  paradigm: N2-case
+ deriv-link: N-ink
  deriv-link: X-es1
  deriv-link: X-es2
  deriv-link: N-or1a
@@ -2553,6 +3043,7 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
+
 -paradigm: Adj5
  -flex: .о
   gramm: m,dir,sg
@@ -2575,6 +3066,7 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
+
 -paradigm: Adj6
  -flex: .а
   gramm: m,dir,sg
@@ -2604,6 +3096,7 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
+
 -paradigm: Adj7
  -flex: .
   gramm: dir,sg
@@ -2636,6 +3129,8 @@
  deriv-link: N-idyr2b
  deriv-link: N-idyr2c
  deriv-link: N-idyr2d
+ deriv-type: NUM-t
+
 -paradigm: N2-case
  -flex: .
   gramm: 
@@ -2664,6 +3159,11 @@
  -flex: .алэ//.ялэ
   gramm: voc,pl
   gloss: VOC.PL
+ -flex: .эс
+  stem: [.]эс//[.]ес
+  gloss: ADV
+  gramm: +adv
+
 -paradigm: PRON1
  -flex: .
   gramm: dir
@@ -2672,6 +3172,7 @@
   gramm: obl
   gloss: OBL
  paradigm: N1-case
+
 -paradigm: PRON2
  -flex: .
   gramm: dir
@@ -2680,6 +3181,7 @@
   gramm: obl
   gloss: OBL
  paradigm: N1-case
+
 -paradigm: PRON3
  -flex: .
   gramm: m,dir,sg
@@ -2688,9 +3190,10 @@
   gramm: m,obl,sg
   gloss: M.OBL.SG
  -flex: .э|са
-  gramm: m,obl,sg,ins
-  gloss: [M.OBL]|INS
+  gramm: m,sg,ins
+  gloss: [M]|INS
  paradigm: N1-case
+
 -paradigm: PRON4
  -flex: .э
   gramm: dir
@@ -2699,6 +3202,7 @@
   gramm: obl
   gloss: OBL
  paradigm: N1-case
+
 -paradigm: PRON5
  -flex: .
   gramm: f,dir,sg
@@ -2707,6 +3211,7 @@
   gramm: f,obl,sg
   gloss: F.OBL.SG
  paradigm: N1-case
+
 -paradigm: PRON6
  -flex: .
   gramm: dir,sg
@@ -2714,12 +3219,15 @@
  -flex: .с<.>
   gramm: obl,sg
   gloss: OBL.SG
- -flex: .э|са
-  gramm: m,obl,sg,ins
-  gloss: [M.OBL]|INS
+ -flex: .са
+  gramm: sg,ins
+  gloss: INS
+ -flex: .э|са//.о|са
+  gramm: m,sg,ins
+  gloss: [M]|INS
  paradigm: N1-case
- deriv-link: PRON-ni
- deriv-link: PRON-vari
+ paradigm: Clitics
+
 -paradigm: PRON7
  -flex: .
   gramm: dir,sg
@@ -2728,8 +3236,102 @@
   gramm: obl,sg
   gloss: OBL.SG
  -flex: .|са
-  gramm: obl,sg,ins
-  gloss: [OBL]|INS
+  gramm: sg,ins
+  gloss: INS.SG
  paradigm: N1-case
- deriv-link: PRON-ni
- deriv-link: PRON-vari
+ paradigm: Clitics
+
+-paradigm: Num
+ -flex: .т<.>
+  gramm: ord
+  gloss: ORD
+ paradigm: Adj2
+
+-paradigm: Preverbs
+ -flex: в.
+  gloss: PREF
+  gramm: +pref
+ -flex: вз.
+  stem: вз<.>//воз<.>//вс<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: вы.
+  stem: вы<.>//ви<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: до<.>
+  stem: до<.>//да<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: за<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: из<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: над<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: об.
+  stem: об<.>//о<.>//аб<.>
+  gloss: PREF
+  gramm: +pref
+ -flex: от.
+  stem: от[.].//ат[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: пири.
+  stem: пири[.].//пир[.].//пирь[.].//пере[.].//пиры[.].//пери[.].//пире[.].//пиръ[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: по.
+  stem: по[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: под.
+  stem: под[.].//подъ[.].//пад[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: при.
+  stem: при[.].//пры[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: про.
+  stem: про[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: рос.
+  stem: роз[.].//рос[.].//рас[.].//раз[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: с.
+  stem: с[.].//з[.].//зъ[.].//со[.].
+  gloss: PREF
+  gramm: +pref
+ -flex: у.
+  gloss: PREF
+  gramm: +pref
+
+-paradigm: Clitics
+ -flex: .
+  gramm:
+ -flex: .жэ//.же//.ж
+  gramm: cl
+  gloss: PART
+ -flex: .-кэ
+  gramm: cl
+  gloss: PART
+ -flex: .то//.-то
+  gramm: cl
+  gloss: INDEF
+ -flex: кой.//кой-.
+  gramm: cl
+  gloss: INDEF
+ -flex: вари[.]
+  stem: вари[.].//вари-[.].
+  gloss: INDEF
+  gramm: cl
+ -flex: ни[.]
+  stem: ни[.].
+  gloss: NEG
+  gramm: +neg
