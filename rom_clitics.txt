@@ -7,28 +7,77 @@
 
 -clitic
  lex: же
- stem: же//ж//жэ
+ stem: же
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: же
+ stem: ж
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: же
+ stem: жэ
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: же
+ stem: -же
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: же
+ stem: -ж
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: же
+ stem: -жэ
  type: en
  gramm: cl
  gloss: PART
 
 -clitic
  lex: бы
- stem: бы//-бы
+ stem: бы
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
+ lex: бы
+ stem: -бы
  type: en
  gramm: cl
  gloss: PART
 
 -clitic
  lex: то
- stem: то//-то
+ stem: то
+ type: en
+ gramm: cl
+ gloss: INDEF
+
+-clitic
+ lex: то
+ stem: -то
  type: en
  gramm: cl
  gloss: INDEF
 
 -clitic
  lex: нибудь
- stem: .нибудь
+ stem: -нибудь
  type: en
  gramm: cl
  gloss: INDEF
@@ -49,7 +98,14 @@
 
 -clitic
  lex: кой
- stem: кой.//кой-.
+ stem: кой
+ type: pro
+ gramm: cl
+ gloss: INDEF
+
+-clitic
+ lex: кой
+ stem: кой-
  type: pro
  gramm: cl
  gloss: INDEF
@@ -84,7 +140,14 @@
 
 -clitic
  lex: о
- stem: о.//о-.
+ stem: о
+ type: pro
+ gramm: cl
+ gloss: ART
+
+-clitic
+ lex: о
+ stem: о-
  type: pro
  gramm: cl
  gloss: ART
@@ -98,7 +161,14 @@
 
 -clitic
  lex: э
- stem: э.//э-.
+ stem: э
+ type: pro
+ gramm: cl
+ gloss: ART
+
+-clitic
+ lex: э
+ stem: э-
  type: pro
  gramm: cl
  gloss: ART
