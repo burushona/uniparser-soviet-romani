@@ -48,6 +48,13 @@
  gloss: PART
 
 -clitic
+ lex: ка
+ stem: -ка
+ type: en
+ gramm: cl
+ gloss: PART
+
+-clitic
  lex: бы
  stem: бы
  type: en

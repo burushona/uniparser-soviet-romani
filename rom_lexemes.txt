@@ -17498,7 +17498,7 @@
  lex: основа
  stem: основ.
  gramm: N
- paradigm: N3
+ paradigm: N13
  gloss: base
  trans_ru: основа
  trans_en: base
@@ -17964,7 +17964,7 @@
 
 -lexeme
  lex: печять
- stem: печять.//печят.
+ stem: печять.//печят.//печать.
  gramm: N
  paradigm: N14
  gloss: press
@@ -18343,12 +18343,12 @@
  trans_en: sowing
 
 -lexeme
- lex: постанавлениё
- stem: постанавлени.
+ lex: постановлениё
+ stem: постанавлени.//постановлени.
  gramm: N
  paradigm: N3
  gloss: decree
- trans_ru: постанавление
+ trans_ru: постановление
  trans_en: decree
 
 -lexeme
