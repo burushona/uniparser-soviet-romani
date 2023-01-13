@@ -2406,6 +2406,9 @@
  -flex: .астыр//.естыр//.эстыр
   gramm: m,abl,sg
   gloss: ABL.SG
+ -flex: .ё
+  gramm: m,voc,sg
+  gloss: VOC.SG
  -flex: .я
   gramm: m,dir,pl
   gloss: DIR.PL
@@ -2481,6 +2484,9 @@
  -flex: .атэ//.ятэ//.ьятэ
   gramm: f,loc,sg
   gloss: LOC.SG
+ -flex: .е//.ё
+  gramm: f,voc,sg
+  gloss: VOC.SG
  -flex: .атыр//.ятыр//.ьятыр
   gramm: f,abl,sg
   gloss: ABL.SG
