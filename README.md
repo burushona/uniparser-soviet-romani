@@ -35,7 +35,35 @@ analyses = a.analyze_words(['романэчявэскэ', [['Тэ'], ['Мэ', '�
 	                       format='json')
 ```
 
+#### Russian borrowings
+
+Words not found in the Romani grammar are also might be checked as Russian noun
+borrowings using ``pymorphy3``. To enable this `analyse_borrowings` parameter should be set to `True` (by default, it is `False`). Russian stems with Soviet Romani case suffixes receive
+part-of-speech, borrowing, gender, case and number tags. The ``rus`` tag marks analyses
+created by this fallback, and ``trans_ru`` contains the Russian lemma. For example:
+
+```python
+a = SovietRomaniAnalyzer(analyse_borrowings=True)  # Default
+a.analyze_words('словарьскэ', format='json')
+# [{'wf': 'словарьскэ',
+#   'lemma': 'словарь',
+#   'gramm': ['N', 'rus', 'm', 'dat', 'sg'],
+#   'wfGlossed': 'словарь-скэ',
+#   'gloss': '',
+#   'trans_ru': 'словарь'}]
+```
+
+Borrowing analysis is only used as a fallback for words with no analysis in the
+Romani grammar. Disable it when only dictionary and rule-based Romani analyses are
+required:
+
+```python
+a = SovietRomaniAnalyzer(analyse_borrowings=False)
+```
+
 Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/) for the full list of options.
+
+**NB: The borrowings analysis does not provide "gloss", it returns it as an empty string**
 
 ### Word lists
 Alternatively, you can use a preprocessed word list. The ``wordlists`` directory contains a list of words from a 720-thousand-word [Soviet Romani corpus](http://web-corpora.net/RomaniCorpus/search/) (``wordlist.csv``), list of analyzed tokens (``wordlist_analyzed.txt``; each line contains all possible analyses for one word in an XML format), and list of tokens the parser could not analyze (``wordlist_unanalyzed.txt``). The recall of the analyzer on the corpus texts is about 85%.
