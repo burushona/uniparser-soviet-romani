@@ -10,12 +10,12 @@ from .borrowings import BorrowingAnalyzer
 
 class SovietRomaniAnalyzer(Analyzer):
     def __init__(self, mode='strict', verbose_grammar=False,
-                 analyse_borrowings=True):
+                 analyse_borrowings=False):
         """
         Initialize the analyzer by reading the grammar files.
         If mode=='strict' (default), load the data as is.
         If mode=='nodiacritics', load the data for (possibly) diacriticless texts.
-        If analyse_borrowings==True (default), analyze unknown Russian noun
+        If analyse_borrowings==False (default), analyze unknown Russian noun
         borrowings with pymorphy3.
         """
         super().__init__(verbose_grammar=verbose_grammar)
