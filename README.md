@@ -35,6 +35,32 @@ analyses = a.analyze_words(['романэчявэскэ', [['Тэ'], ['Мэ', '�
 	                       format='json')
 ```
 
+#### Russian borrowings
+
+By default, words not found in the Romani grammar are also checked as Russian noun
+borrowings using ``pymorphy3``. Russian stems with Soviet Romani case suffixes receive
+part-of-speech, borrowing, gender, case and number tags. The ``rus`` tag marks analyses
+created by this fallback, and ``trans_ru`` contains the Russian lemma. For example:
+
+```python
+a = SovietRomaniAnalyzer(analyse_borrowings=True)  # Default
+a.analyze_words('словарьскэ', format='json')
+# [{'wf': 'словарьскэ',
+#   'lemma': 'словарь',
+#   'gramm': ['N', 'rus', 'm', 'dat', 'sg'],
+#   'wfGlossed': 'словарь-скэ',
+#   'gloss': '',
+#   'trans_ru': 'словарь'}]
+```
+
+Borrowing analysis is only used as a fallback for words with no analysis in the
+Romani grammar. Disable it when only dictionary and rule-based Romani analyses are
+required:
+
+```python
+a = SovietRomaniAnalyzer(analyse_borrowings=False)
+```
+
 Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/) for the full list of options.
 
 ### Word lists
