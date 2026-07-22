@@ -37,8 +37,8 @@ analyses = a.analyze_words(['романэчявэскэ', [['Тэ'], ['Мэ', '�
 
 #### Russian borrowings
 
-By default, words not found in the Romani grammar are also checked as Russian noun
-borrowings using ``pymorphy3``. Russian stems with Soviet Romani case suffixes receive
+Words not found in the Romani grammar are also might be checked as Russian noun
+borrowings using ``pymorphy3``. To enable this, set `analyse_borrowings=True`, when initialising `SovietRomaniAnalyzer`. Russian stems with Soviet Romani case suffixes receive
 part-of-speech, borrowing, gender, case and number tags. The ``rus`` tag marks analyses
 created by this fallback, and ``trans_ru`` contains the Russian lemma. For example:
 
