@@ -63,6 +63,8 @@ a = SovietRomaniAnalyzer(analyse_borrowings=False)
 
 Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/) for the full list of options.
 
+**NB: `gloss` field would be empty for Russian borrowings**
+
 ### Word lists
 Alternatively, you can use a preprocessed word list. The ``wordlists`` directory contains a list of words from a 720-thousand-word [Soviet Romani corpus](http://web-corpora.net/RomaniCorpus/search/) (``wordlist.csv``), list of analyzed tokens (``wordlist_analyzed.txt``; each line contains all possible analyses for one word in an XML format), and list of tokens the parser could not analyze (``wordlist_unanalyzed.txt``). The recall of the analyzer on the corpus texts is about 85%.
 
