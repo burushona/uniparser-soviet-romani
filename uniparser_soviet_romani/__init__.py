@@ -10,7 +10,7 @@ from .borrowings import BorrowingAnalyzer
 
 class SovietRomaniAnalyzer(Analyzer):
     def __init__(self, mode='strict', verbose_grammar=False,
-                 analyse_borrowings=True):
+                 analyse_borrowings=False):
         """
         Initialize the analyzer by reading the grammar files.
         If mode=='strict' (default), load the data as is.
