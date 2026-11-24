@@ -5,9 +5,6 @@ except ImportError:
 from uniparser_morph import Analyzer
 from uniparser_morph.wordform import Wordform
 
-from .borrowings import BorrowingAnalyzer
-
-
 class SovietRomaniAnalyzer(Analyzer):
     def __init__(self, mode='strict', verbose_grammar=False,
                  analyse_borrowings=False):
@@ -15,7 +12,7 @@ class SovietRomaniAnalyzer(Analyzer):
         Initialize the analyzer by reading the grammar files.
         If mode=='strict' (default), load the data as is.
         If mode=='nodiacritics', load the data for (possibly) diacriticless texts.
-        If analyse_borrowings==True (default), analyze unknown Russian noun
+        If analyse_borrowings==True (default: False), analyze unknown Russian noun
         borrowings with pymorphy3.
         """
         super().__init__(verbose_grammar=verbose_grammar)
@@ -33,6 +30,9 @@ class SovietRomaniAnalyzer(Analyzer):
              as_file(files(self.dirName) / 'bad_analyses.txt') as self.delAnaFile:
             self.load_grammar()
         if self.analyseBorrowings:
+            # Imported here so that pymorphy3 is only needed
+            # when borrowing analysis is switched on
+            from .borrowings import BorrowingAnalyzer
             self.borrowingAnalyzer = BorrowingAnalyzer(self.g)
 
     def analyze_words(self, words, format=None, disambiguate=False):
