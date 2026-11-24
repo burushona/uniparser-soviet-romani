@@ -165,7 +165,7 @@
  type: en
  gramm: cl
  gloss: ART
- regex-gramm: ^Prep
+ regex-wf: ^-?(др|пр|д|п|к|пир|пирдал|пал|жык|жик|тэл|ваш|паш|машкир)[оэ]?$
 
 -clitic
  lex: э
@@ -187,4 +187,4 @@
  type: en
  gramm: cl
  gloss: ART
- regex-gramm: ^Prep
+ regex-wf: ^-?(др|пр|д|п|к|пир|пирдал|пал|жык|жик|тэл|ваш|паш|машкир)[оэ]?$
