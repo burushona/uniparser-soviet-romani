@@ -165,6 +165,7 @@
  type: en
  gramm: cl
  gloss: ART
+ regex-gramm: ^Prep
 
 -clitic
  lex: э
@@ -186,3 +187,4 @@
  type: en
  gramm: cl
  gloss: ART
+ regex-gramm: ^Prep
