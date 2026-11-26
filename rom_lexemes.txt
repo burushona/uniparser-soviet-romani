@@ -1,7 +1,7 @@
 ﻿-lexeme
  lex: бесчястно
  stem: бесчястн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: dishonest
  trans_ru: бесчестный
@@ -10,7 +10,7 @@
 -lexeme
  lex: бэдэ
  stem: бэдэ.
- gramm: ADJ
+ gramm: Adj
  paradigm: ZERO
  gloss: bad
  trans_ru: плохой
@@ -19,7 +19,7 @@
 -lexeme
  lex: бумажно
  stem: бумажн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: paper
  trans_ru: бумажный
@@ -28,7 +28,7 @@
 -lexeme
  lex: драматическо
  stem: драматическ.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: dramatic
  trans_ru: драматический
@@ -37,7 +37,7 @@
 -lexeme
  lex: заготовительно
  stem: заготовительн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: procuring
  trans_ru: заготовительный
@@ -46,7 +46,7 @@
 -lexeme
  lex: земско
  stem: земск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: county
  trans_ru: земский
@@ -54,8 +54,8 @@
 
 -lexeme
  lex: искуственно
- stem: искуственн.
- gramm: ADJ
+ stem: искуственн.//искусственн.
+ gramm: Adj
  paradigm: Adj2
  gloss: artificial
  trans_ru: искусственный
@@ -64,7 +64,7 @@
 -lexeme
  lex: итальянско
  stem: итальянск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: Italian
  trans_ru: итальянский
@@ -73,7 +73,7 @@
 -lexeme
  lex: квалифицыровано
  stem: квалифицырован.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: skilled
  trans_ru: квалифицированный
@@ -82,7 +82,7 @@
 -lexeme
  lex: киргизско
  stem: киргизск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: Kyrgyz
  trans_ru: киргизский
@@ -91,7 +91,7 @@
 -lexeme
  lex: коллективно
  stem: колективн.//коллективн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: collective
  trans_ru: коллективный
@@ -100,7 +100,7 @@
 -lexeme
  lex: механическо
  stem: механическ.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: mechanical
  trans_ru: механический
@@ -109,7 +109,7 @@
 -lexeme
  lex: наружно
  stem: наружн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: external
  trans_ru: наружный
@@ -118,7 +118,7 @@
 -lexeme
  lex: определённо
  stem: определённ.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: definite
  trans_ru: определённый
@@ -127,7 +127,7 @@
 -lexeme
  lex: опорно
  stem: опорн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: supporting
  trans_ru: опорный
@@ -136,7 +136,7 @@
 -lexeme
  lex: организационно
  stem: организационн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: organizational
  trans_ru: организационный
@@ -145,7 +145,7 @@
 -lexeme
  lex: ответственно
  stem: ответственн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: responsible
  trans_ru: ответственный
@@ -154,7 +154,7 @@
 -lexeme
  lex: отремонтированно
  stem: отремонтирован.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: repaired
  trans_ru: отремонтированный
@@ -163,7 +163,7 @@
 -lexeme
  lex: отстало
  stem: отстал.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: backward
  trans_ru: отсталый
@@ -172,7 +172,7 @@
 -lexeme
  lex: покорно
  stem: покорн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: obedient
  trans_ru: покорный
@@ -181,7 +181,7 @@
 -lexeme
  lex: португальско
  stem: португальск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: Portuguese
  trans_ru: португальский
@@ -190,7 +190,7 @@
 -lexeme
  lex: постоянно
  stem: постоянн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: permanent
  trans_ru: постоянный
@@ -199,7 +199,7 @@
 -lexeme
  lex: почтово
  stem: почтов.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: postal
  trans_ru: почтовый
@@ -208,7 +208,7 @@
 -lexeme
  lex: практическо
  stem: практическ.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: practical
  trans_ru: практический
@@ -217,7 +217,7 @@
 -lexeme
  lex: природно
  stem: природн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: natural
  trans_ru: природный
@@ -226,7 +226,7 @@
 -lexeme
  lex: пэрвомайско
  stem: пэрвомайск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: May-day
  trans_ru: первомайский
@@ -235,7 +235,7 @@
 -lexeme
  lex: рязанско
  stem: рязанск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: Ryazan
  trans_ru: рязанский
@@ -244,7 +244,7 @@
 -lexeme
  lex: саратовско
  stem: саратовск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: Saratov
  trans_ru: саратовский
@@ -253,7 +253,7 @@
 -lexeme
  lex: святло
  stem: святл.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: light
  trans_ru: светлый
@@ -262,7 +262,7 @@
 -lexeme
  lex: северно
  stem: северн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: northern
  trans_ru: северный
@@ -271,7 +271,7 @@
 -lexeme
  lex: силосно
  stem: силосн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: silo
  trans_ru: силосный
@@ -280,7 +280,7 @@
 -lexeme
  lex: сияюшшё
  stem: сияюшш.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: shining
  trans_ru: сияющий
@@ -289,7 +289,7 @@
 -lexeme
  lex: скотно
  stem: скотн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: cattle
  trans_ru: скотный
@@ -298,7 +298,7 @@
 -lexeme
  lex: смоленско
  stem: смоленск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: Smolensk
  trans_ru: смоленский
@@ -307,7 +307,7 @@
 -lexeme
  lex: весеннё
  stem: весенн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: spring
  trans_ru: весенний
@@ -316,7 +316,7 @@
 -lexeme
  lex: историческо
  stem: историческ.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: historical
  trans_ru: исторический
@@ -325,7 +325,7 @@
 -lexeme
  lex: зэлэно
  stem: зэлэн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: green
  trans_ru: зелёный
@@ -334,7 +334,7 @@
 -lexeme
  lex: серно
  stem: серн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: sulfuric
  trans_ru: серный
@@ -343,7 +343,7 @@
 -lexeme
  lex: жолто
  stem: жолт.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: yellow
  trans_ru: жёлтый
@@ -352,7 +352,7 @@
 -lexeme
  lex: осеннё
  stem: осенн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: autumn
  trans_ru: осенний
@@ -361,7 +361,7 @@
 -lexeme
  lex: социалистическо
  stem: социалистическ.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: socialist
  trans_ru: социалистический
@@ -370,7 +370,7 @@
 -lexeme
  lex: полярно
  stem: полярн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: polar
  trans_ru: полярный
@@ -379,7 +379,7 @@
 -lexeme
  lex: заразно
  stem: заразн.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: infectious
  trans_ru: заразный
@@ -388,7 +388,7 @@
 -lexeme
  lex: углекисло
  stem: углекисл.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: carbonic
  trans_ru: углекислый
@@ -397,7 +397,7 @@
 -lexeme
  lex: пролетарско
  stem: пролетарск.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj2
  gloss: proletarian
  trans_ru: пролетарский
@@ -406,7 +406,7 @@
 -lexeme
  lex: кхамло
  stem: кхамл.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj1
  gloss: sweaty
  trans_ru: потный
@@ -415,7 +415,7 @@
 -lexeme
  lex: баро
  stem: бар.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj1
  gloss: big
  trans_ru: большой
@@ -424,7 +424,7 @@
 -lexeme
  lex: гужло
  stem: гужл.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj1
  gloss: must
  trans_ru: должен
@@ -433,7 +433,7 @@
 -lexeme
  lex: кхэтано
  stem: кхэтан.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj1
  gloss: collective
  trans_ru: общий
@@ -442,7 +442,7 @@
 -lexeme
  lex: тэрдо
  stem: тэрд.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj1
  gloss: standing
  trans_ru: стоящий
@@ -451,7 +451,7 @@
 -lexeme
  lex: сыкло
  stem: сыкл.
- gramm: ADJ
+ gramm: Adj
  paradigm: Adj1
  gloss: learned
  trans_ru: привыкший
@@ -1025,8 +1025,8 @@
  trans_en: such
 
 -lexeme
- lex: capo
- stem: сар.//cap.
+ lex: саро
+ stem: сар.
  gramm: PRON
  paradigm: Adj1
  gloss: all
@@ -1892,7 +1892,7 @@
 
 -lexeme
  lex: вымэрэл
- stem: вымэрэс
+ stem: вымэр.
  gramm: V
  paradigm: V12
  gloss: die_out
@@ -2162,7 +2162,7 @@
 
 -lexeme
  lex: ганэл
- stem: ган.//ґан
+ stem: ган.//ґан.
  gramm: V
  paradigm: V3
  gloss: comb
@@ -2180,7 +2180,7 @@
 
 -lexeme
  lex: ганадёл
- stem: ганадёл
+ stem: ганад.
  gramm: V
  paradigm: V9
  gloss: dig
@@ -2316,7 +2316,7 @@
 
 -lexeme
  lex: греминэл
- stem: гремин.//грем.//
+ stem: гремин.//грем.
  gramm: V
  paradigm: V3
  gloss: thunder
@@ -2325,7 +2325,7 @@
 
 -lexeme
  lex: грозискирэл
- stem: грозискир.//гроз.//
+ stem: грозискир.//гроз.
  gramm: V
  paradigm: V3
  gloss: threaten
@@ -4497,7 +4497,7 @@
 
 -lexeme
  lex: кхэтанякирэл
- stem: кхэтанякир.//кхэтянякир
+ stem: кхэтанякир.//кхэтянякир.
  gramm: V
  paradigm: V3
  gloss: unite
@@ -5463,7 +5463,7 @@
 
 -lexeme
  lex: организовать
- stem: организует.//организовали.//организовать
+ stem: организует.//организовали.//организовать.
  gramm: V
  paradigm: ZERO
  gloss: rus:organize
@@ -9861,7 +9861,7 @@
  trans_en: resist
 
 -lexeme
- lex: ухтал
+ lex: ухтэл
  stem: ухт.//ух.
  gramm: V
  paradigm: V4
@@ -9889,7 +9889,7 @@
 
 -lexeme
  lex: уштэл
- stem: ушт.//ус.
+ stem: ушт.//ус.//уш.
  gramm: V
  paradigm: V5
  paradigm: V2
@@ -10634,7 +10634,7 @@
 -lexeme
  lex: Андреё
  stem: андре.
- gramm: Nю 
+ gramm: N,PN
  paradigm: N3
  gloss: Andrey
  trans_ru: Андрей
@@ -10832,7 +10832,7 @@
 
 -lexeme
  lex: багаибэ
- stem: багаибэ//багаибэн.//багаибн.//багибн.//багипн.
+ stem: багаибэ.//багаибэн.//багаибн.//багибн.//багипн.
  gramm: N
  paradigm: N5
  gloss: singing
@@ -11881,7 +11881,7 @@
 -lexeme
  lex: ВКП
  stem: вкп.
- gramm: N, PN, abbr
+ gramm: N,PN,abbr
  paradigm: ZERO
  gloss: AUCP
  trans_ru: ВКП
@@ -12079,7 +12079,7 @@
 -lexeme
  lex: вцико
  stem: вцик.
- gramm: N, abbr
+ gramm: N,abbr
  paradigm: ZERO
  paradigm: N3
  gloss: All-Russian_Central_Executive_Committee
@@ -13328,7 +13328,7 @@
 -lexeme
  lex: Дуня
  stem: дун.
- gramm: N, PN
+ gramm: N,PN
  paradigm: N13
  gloss: Dunya
  trans_ru: Дуня
@@ -13337,7 +13337,7 @@
 -lexeme
  lex: Дубровско
  stem: дубровск.
- gramm: N, PN
+ gramm: N,PN
  paradigm: Adj2
  gloss: Dubrovskiy
  trans_ru: Дубровский
@@ -13490,7 +13490,7 @@
 
 -lexeme
  lex: екхджино
- stem: екхджин.//екхджын.//екджин
+ stem: екхджин.//екхджын.//екджин.
  gramm: N
  paradigm: N2
  paradigm: N12
@@ -14232,7 +14232,7 @@
 -lexeme
  lex: Кавказо
  stem: кавказ.
- gramm: N, PN, topn
+ gramm: N,PN,topn
  paradigm: N3
  gloss: Caucasus
  trans_ru: Кавказ
@@ -15738,7 +15738,7 @@
 
 -lexeme
  lex: кхэтанэибэ
- stem: кхэтанэиб.//кхэтанэибн.//кхэтанаибэ.
+ stem: кхэтанэиб.//кхэтанэибн.//кхэтанэибэ.//кхэтанэибэн.
  gramm: N
  paradigm: N5
  gloss: unity
@@ -16813,7 +16813,7 @@
 -lexeme
  lex: МТС
  stem: мтс.
- gramm: N, abbr
+ gramm: N,abbr
  paradigm: ZERO
  gloss: MTS
  trans_ru: МТС
@@ -16821,7 +16821,7 @@
 
 -lexeme
  lex: муй
- stem: муй.//му.//муи./м.
+ stem: муй.//му.//муи.//м.
  gramm: N
  paradigm: N9
  gloss: face
@@ -17193,7 +17193,7 @@
  lex: национальность
  stem: национальность.//национальност.//нацыональност.
  gramm: N
- paradigm: N13
+ paradigm: N14
  gloss: ethnicity
  trans_ru: национальность
  trans_en: ethnicity
@@ -17652,7 +17652,7 @@
  lex: отлыджяибэ
  stem: отлыджяибэн.//отлыджяибэ.//отлыджяибн.
  gramm: N
- paradigm: N2
+ paradigm: N5
  gloss: attitude
  trans_ru: отношение
  trans_en: attitude, relation
@@ -18102,7 +18102,7 @@
 -lexeme
  lex: Пётро
  stem: пётр.//петр.
- gramm: N, PN
+ gramm: N,PN
  paradigm: N3
  gloss: Pyotr
  trans_ru: Пётр
@@ -18254,7 +18254,7 @@
 
 -lexeme
  lex: плошшядь
- stem: плошшядь.//плошшяд.
+ stem: плошшядь.//плошшяд.//плошшадь.//плошшад.
  gramm: N
  paradigm: N14
  gloss: square
@@ -19769,7 +19769,7 @@
 -lexeme
  lex: Савельич
  stem: савельич.
- gramm: N, PN
+ gramm: N,PN
  paradigm: N3
  gloss: Savelyich
  trans_ru: Савельич
@@ -20483,7 +20483,7 @@
 -lexeme
  lex: СССР
  stem: ссср.
- gramm: N, PN, abbr
+ gramm: N,PN,abbr
  paradigm: ZERO
  gloss: USSR
  trans_ru: СССР
@@ -20492,7 +20492,7 @@
 -lexeme
  lex: РСФСР
  stem: рсфср.
- gramm: N, PN, abbr
+ gramm: N,PN,abbr
  paradigm: ZERO
  gloss: RSFSR
  trans_ru: РСФСР
@@ -22271,7 +22271,7 @@
 -lexeme
  lex: ЦК
  stem: цк.
- gramm: N, abbr
+ gramm: N,abbr
  paradigm: ZERO
  gloss: CC
  trans_ru: ЦК
@@ -22280,7 +22280,7 @@
 -lexeme
  lex: ЦИК
  stem: цик.
- gramm: N, abbr
+ gramm: N,abbr
  paradigm: ZERO
  gloss: CEC
  trans_ru: ЦИК
@@ -23313,7 +23313,7 @@
  trans_en: sigh
 
 -lexeme
- lex: ґонорo
+ lex: ґоноро
  stem: ґонор.
  gramm: N
  paradigm: N2
@@ -23332,7 +23332,7 @@
  trans_en: stack
 
 -lexeme
- lex: ґамo
+ lex: ґамо
  stem: ґам.//гам.
  gramm: N
  paradigm: N2
@@ -25981,7 +25981,7 @@
 
 -lexeme
  lex: саро
- stem: сар.//cap.
+ stem: сар.
  gramm: Adj
  paradigm: Adj1
  gloss: all
@@ -27961,9 +27961,9 @@
  stem: штыл.
  gramm: Adv
  paradigm: ZERO
- gloss: up
- trans_ru: тихо
- trans_en: up
+ gloss: silent
+ trans_ru: молча
+ trans_en: silent
 
 -lexeme
  lex: наиста
@@ -28254,3 +28254,12 @@
  gloss: hundred
  trans_ru: сто
  trans_en: hundred
+
+-lexeme
+ lex: думо
+ stem: дум.
+ gramm: N
+ paradigm: N2
+ gloss: back
+ trans_ru: спина
+ trans_en: back

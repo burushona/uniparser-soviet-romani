@@ -90,6 +90,8 @@
   gloss: CONV
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -195,6 +197,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -300,6 +304,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -409,6 +415,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -514,6 +522,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -619,6 +629,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -724,6 +736,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -832,6 +846,8 @@
   gloss: CONV
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -940,6 +956,8 @@
   gloss: CONV
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -1045,6 +1063,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -1154,6 +1174,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -1170,6 +1192,7 @@
  deriv-link: V-ptcp3
  deriv-link: V-ptcp4
  deriv-link: X-atun
+ deriv-link: V-ptcp-in
  deriv-link: V-av
  deriv-link: V-kir1
  deriv-link: V-kir2
@@ -1259,6 +1282,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -1364,6 +1389,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -1469,6 +1496,8 @@
   gloss: 2PL//2PL|IMP
  paradigm: Preverbs
  deriv-link: N-iben1
+ deriv-link: N-iben-th
+ deriv-link: N-iben-th-i
  deriv-link: N-iben2
  deriv-link: N-iben3
  deriv-link: N-iben4
@@ -2039,6 +2068,9 @@
  -flex: .астыр//.ястыр
   gramm: m,abl,sg
   gloss: ABL.SG
+ -flex: .о
+  gramm: m,voc,sg
+  gloss: VOC.SG
  -flex: .ы//.и
   gramm: m,dir,pl
   gloss: DIR.PL
@@ -2672,6 +2704,9 @@
  -flex: .атыр//.ятыр
   gramm: f,abl,sg
   gloss: ABL.SG
+ -flex: .э//.е
+  gramm: f,voc,sg
+  gloss: VOC.SG
  -flex: .ы//.и
   gramm: f,dir,pl
   gloss: DIR.PL
@@ -2744,7 +2779,7 @@
  -flex: .
   gramm: f,dir,sg
   gloss: DIR.SG
- -flex: .я<.>
+ -flex: .я
   gramm: f,obl,sg
   gloss: OBL.SG
  -flex: .якир<.>//.якр<.>
@@ -2987,6 +3022,12 @@
  deriv-link: N-or3a
  deriv-link: N-or3b
  deriv-link: X-atun
+ deriv-link: N-iben3
+ deriv-link: N-iben4
+ deriv-link: N-iben6
+ deriv-link: N-iben9
+ deriv-link: N-iben10
+ deriv-link: N-iben12
  deriv-link: N-ar1
  deriv-link: N-ar2
  deriv-link: N-im1
@@ -3036,6 +3077,12 @@
  deriv-link: N-or3a
  deriv-link: N-or3b
  deriv-link: X-atun
+ deriv-link: N-iben3
+ deriv-link: N-iben4
+ deriv-link: N-iben6
+ deriv-link: N-iben9
+ deriv-link: N-iben10
+ deriv-link: N-iben12
  deriv-link: N-ar1
  deriv-link: N-ar2
  deriv-link: N-im1

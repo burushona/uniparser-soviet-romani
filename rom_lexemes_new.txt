@@ -1,0 +1,548 @@
+-lexeme
+ lex: Китаё
+ stem: кита.
+ gramm: N,PN,topn
+ paradigm: N3
+ gloss: China
+ trans_ru: Китай
+ trans_en: China
+
+-lexeme
+ lex: микробо
+ stem: микроб.
+ gramm: N
+ paradigm: N3
+ gloss: microbe
+ trans_ru: микроб
+ trans_en: microbe
+
+-lexeme
+ lex: агитацыя
+ stem: агитацы.
+ gramm: N
+ paradigm: N13
+ gloss: agitation
+ trans_ru: агитация
+ trans_en: agitation
+
+-lexeme
+ lex: гробо
+ stem: гроб.
+ gramm: N
+ paradigm: N3
+ gloss: coffin
+ trans_ru: гроб
+ trans_en: coffin
+
+-lexeme
+ lex: польза
+ stem: польз.
+ gramm: N
+ paradigm: N13
+ gloss: benefit
+ trans_ru: польза
+ trans_en: benefit
+
+-lexeme
+ lex: проливо
+ stem: пролив.
+ gramm: N
+ paradigm: N3
+ gloss: strait
+ trans_ru: пролив
+ trans_en: strait
+
+-lexeme
+ lex: Алексеё
+ stem: алексе.
+ gramm: N,PN
+ paradigm: N3
+ gloss: Aleksey
+ trans_ru: Алексей
+ trans_en: Aleksey
+
+-lexeme
+ lex: забастовка
+ stem: забастовк.
+ gramm: N
+ paradigm: N13
+ gloss: strike
+ trans_ru: забастовка
+ trans_en: strike
+
+-lexeme
+ lex: зашшита
+ stem: зашшит.
+ gramm: N
+ paradigm: N13
+ gloss: defence
+ trans_ru: защита
+ trans_en: defence
+
+-lexeme
+ lex: миллиардо
+ stem: миллиард.
+ gramm: N
+ paradigm: N3
+ gloss: billion
+ trans_ru: миллиард
+ trans_en: billion
+
+-lexeme
+ lex: азбука
+ stem: азбук.
+ gramm: N
+ paradigm: N13
+ gloss: alphabet
+ trans_ru: азбука
+ trans_en: alphabet
+
+-lexeme
+ lex: одёжа
+ stem: одёж.//одеж.
+ gramm: N
+ paradigm: N13
+ gloss: clothes
+ trans_ru: одежда
+ trans_en: clothes
+
+-lexeme
+ lex: охота
+ stem: охот.
+ gramm: N
+ paradigm: N13
+ gloss: hunt
+ trans_ru: охота
+ trans_en: hunt
+
+-lexeme
+ lex: транспорто
+ stem: транспорт.
+ gramm: N
+ paradigm: N3
+ gloss: transport
+ trans_ru: транспорт
+ trans_en: transport
+
+-lexeme
+ lex: успехо
+ stem: успех.
+ gramm: N
+ paradigm: N3
+ gloss: success
+ trans_ru: успех
+ trans_en: success
+
+-lexeme
+ lex: фаза
+ stem: фаз.
+ gramm: N
+ paradigm: N13
+ gloss: phase
+ trans_ru: фаза
+ trans_en: phase
+
+-lexeme
+ lex: Гвинея
+ stem: гвине.
+ gramm: N,PN,topn
+ paradigm: N13
+ gloss: Guinea
+ trans_ru: Гвинея
+ trans_en: Guinea
+
+-lexeme
+ lex: плуго
+ stem: плуг.
+ gramm: N
+ paradigm: N3
+ gloss: plough
+ trans_ru: плуг
+ trans_en: plough
+
+-lexeme
+ lex: погода
+ stem: погод.
+ gramm: N
+ paradigm: N13
+ gloss: weather
+ trans_ru: погода
+ trans_en: weather
+
+-lexeme
+ lex: антирелигиозно
+ stem: антирелигиозн.
+ gramm: Adj
+ paradigm: Adj2
+ gloss: anti-religious
+ trans_ru: антирелигиозный
+ trans_en: anti-religious
+
+-lexeme
+ lex: бумага
+ stem: бумаг.
+ gramm: N
+ paradigm: N13
+ gloss: paper
+ trans_ru: бумага
+ trans_en: paper
+
+-lexeme
+ lex: западо
+ stem: запад.
+ gramm: N
+ paradigm: N3
+ gloss: west
+ trans_ru: запад
+ trans_en: west
+
+-lexeme
+ lex: Индия
+ stem: инди.
+ gramm: N,PN,topn
+ paradigm: N13
+ gloss: India
+ trans_ru: Индия
+ trans_en: India
+
+-lexeme
+ lex: пункто
+ stem: пункт.
+ gramm: N
+ paradigm: N3
+ gloss: point
+ trans_ru: пункт
+ trans_en: point
+
+-lexeme
+ lex: слоё
+ stem: сло.
+ gramm: N
+ paradigm: N3
+ gloss: layer
+ trans_ru: слой
+ trans_en: layer
+
+-lexeme
+ lex: секретарё
+ stem: секретар.
+ gramm: N
+ paradigm: N3
+ gloss: secretary
+ trans_ru: секретарь
+ trans_en: secretary
+
+-lexeme
+ lex: сентябрё
+ stem: сентябр.
+ gramm: N
+ paradigm: N3
+ gloss: September
+ trans_ru: сентябрь
+ trans_en: September
+
+-lexeme
+ lex: вешш
+ stem: вешш.
+ gramm: N
+ paradigm: N14
+ gloss: thing
+ trans_ru: вещь
+ trans_en: thing
+
+-lexeme
+ lex: возможность
+ stem: возможность.//возможност.
+ gramm: N
+ paradigm: N14
+ gloss: possibility
+ trans_ru: возможность
+ trans_en: possibility
+
+-lexeme
+ lex: мысль
+ stem: мысль.//мысл.
+ gramm: N
+ paradigm: N14
+ gloss: thought
+ trans_ru: мысль
+ trans_en: thought
+
+-lexeme
+ lex: ноябрё
+ stem: ноябр.
+ gramm: N
+ paradigm: N3
+ gloss: November
+ trans_ru: ноябрь
+ trans_en: November
+
+-lexeme
+ lex: премия
+ stem: преми.
+ gramm: N
+ paradigm: N13
+ gloss: prize
+ trans_ru: премия
+ trans_en: prize
+
+-lexeme
+ lex: уроко
+ stem: урок.
+ gramm: N
+ paradigm: N3
+ gloss: lesson
+ trans_ru: урок
+ trans_en: lesson
+
+-lexeme
+ lex: Францыя
+ stem: францы.
+ gramm: N,PN,topn
+ paradigm: N13
+ gloss: France
+ trans_ru: Франция
+ trans_en: France
+
+-lexeme
+ lex: эксплоатацыя
+ stem: эксплоатацы.
+ gramm: N
+ paradigm: N13
+ gloss: exploitation
+ trans_ru: эксплуатация
+ trans_en: exploitation
+
+-lexeme
+ lex: астрономо
+ stem: астроном.
+ gramm: N
+ paradigm: N3
+ gloss: astronomer
+ trans_ru: астроном
+ trans_en: astronomer
+
+-lexeme
+ lex: белка
+ stem: белк.
+ gramm: N
+ paradigm: N13
+ gloss: squirrel
+ trans_ru: белка
+ trans_en: squirrel
+
+-lexeme
+ lex: Захаро
+ stem: захар.
+ gramm: N,PN
+ paradigm: N3
+ gloss: Zakhar
+ trans_ru: Захар
+ trans_en: Zakhar
+
+-lexeme
+ lex: корзина
+ stem: корзин.
+ gramm: N
+ paradigm: N13
+ gloss: basket
+ trans_ru: корзина
+ trans_en: basket
+
+-lexeme
+ lex: лестница
+ stem: лестниц.
+ gramm: N
+ paradigm: N13
+ gloss: stairs
+ trans_ru: лестница
+ trans_en: stairs
+
+-lexeme
+ lex: нефть
+ stem: нефть.//нефт.
+ gramm: N
+ paradigm: N14
+ gloss: oil
+ trans_ru: нефть
+ trans_en: oil
+
+-lexeme
+ lex: ошибка
+ stem: ошибк.
+ gramm: N
+ paradigm: N13
+ gloss: mistake
+ trans_ru: ошибка
+ trans_en: mistake
+
+-lexeme
+ lex: дворцо
+ stem: дворц.
+ gramm: N
+ paradigm: N3
+ gloss: palace
+ trans_ru: дворец
+ trans_en: palace
+
+-lexeme
+ lex: Емельяно
+ stem: емельян.
+ gramm: N,PN
+ paradigm: N3
+ gloss: Emelyan
+ trans_ru: Емельян
+ trans_en: Emelyan
+
+-lexeme
+ lex: команда
+ stem: команд.
+ gramm: N
+ paradigm: N13
+ gloss: team
+ trans_ru: команда
+ trans_en: team
+
+-lexeme
+ lex: Оренбурго
+ stem: оренбург.
+ gramm: N,PN,topn
+ paradigm: N3
+ gloss: Orenburg
+ trans_ru: Оренбург
+ trans_en: Orenburg
+
+-lexeme
+ lex: очередь
+ stem: очередь.//очеред.
+ gramm: N
+ paradigm: N14
+ gloss: queue
+ trans_ru: очередь
+ trans_en: queue
+
+-lexeme
+ lex: арестанто
+ stem: арестант.
+ gramm: N
+ paradigm: N3
+ gloss: prisoner
+ trans_ru: арестант
+ trans_en: prisoner
+
+-lexeme
+ lex: букварё
+ stem: буквар.
+ gramm: N
+ paradigm: N3
+ gloss: primer
+ trans_ru: букварь
+ trans_en: primer
+
+-lexeme
+ lex: клеверо
+ stem: клевер.
+ gramm: N
+ paradigm: N3
+ gloss: clover
+ trans_ru: клевер
+ trans_en: clover
+
+-lexeme
+ lex: монахо
+ stem: монах.
+ gramm: N
+ paradigm: N3
+ gloss: monk
+ trans_ru: монах
+ trans_en: monk
+
+-lexeme
+ lex: особа
+ stem: особ.
+ gramm: N
+ paradigm: N13
+ gloss: person
+ trans_ru: особа
+ trans_en: person
+
+-lexeme
+ lex: списко
+ stem: списк.
+ gramm: N
+ paradigm: N3
+ gloss: list
+ trans_ru: список
+ trans_en: list
+
+-lexeme
+ lex: студия
+ stem: студи.
+ gramm: N
+ paradigm: N13
+ gloss: studio
+ trans_ru: студия
+ trans_en: studio
+
+-lexeme
+ lex: французо
+ stem: француз.
+ gramm: N
+ paradigm: N3
+ gloss: Frenchman
+ trans_ru: француз
+ trans_en: Frenchman
+
+-lexeme
+ lex: издательство
+ stem: издательств.
+ gramm: N
+ paradigm: N3
+ gloss: publisher
+ trans_ru: издательство
+ trans_en: publisher
+
+-lexeme
+ lex: дывэсэ
+ stem: дывэсэ.
+ gramm: Adv
+ paradigm: ZERO
+ gloss: by_day
+ trans_ru: днём
+ trans_en: in the daytime
+
+-lexeme
+ lex: дад
+ stem: дадо.
+ gramm: N,m,voc,sg
+ paradigm: ZERO
+ gloss: father.VOC
+ trans_ru: отец
+ trans_en: father
+
+-lexeme
+ lex: биби
+ stem: бибо.
+ gramm: N,f,voc,sg
+ paradigm: ZERO
+ gloss: aunt.VOC
+ trans_ru: тётя
+ trans_en: aunt
+
+-lexeme
+ lex: бори
+ stem: боро.
+ gramm: N,f,voc,sg
+ paradigm: ZERO
+ gloss: daughter_in_law.VOC
+ trans_ru: невестка
+ trans_en: daughter-in-law
+
+-lexeme
+ lex: мами
+ stem: мамо.
+ gramm: N,f,voc,sg
+ paradigm: ZERO
+ gloss: grandmother.VOC
+ trans_ru: бабушка
+ trans_en: grandmother

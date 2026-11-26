@@ -616,3 +616,26 @@
  stem: у[.].
  gloss: PREF
  gramm: +pref
+
+-deriv-type: N-iben-th
+ lex: [.]эибэн
+ stem: [.]эибэн.//[.]эибэ.//[.]эибн.//[.]еибэн.//[.]еибэ.//[.]еибн.//[.]ыибэн.//[.]ыибэ.//[.]ыибн.//[.]яибэн.//[.]яибэ.//[.]яибн.//[.]эипэн.//[.]эипэ.//[.]эипн.//[.]еипэн.//[.]еипэ.//[.]еипн.//[.]ыипэн.//[.]ыипэ.//[.]ыипн.//[.]яипэн.//[.]яипэ.//[.]яипн.
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: N-iben-th-i
+ lex: [.]иибэн
+ stem: [.]иибэн.//[.]иибэ.//[.]иибн.//[.]иипэн.//[.]иипэ.//[.]иипн.
+ regex-stem: ^(?!дж\.?$)
+ gloss: NMLZ
+ gramm: +nmlz
+ paradigm: N5
+
+-deriv-type: V-ptcp-in
+ lex: [.]ин
+ stem: [.]ин.
+ regex-stem: лыдж\.?$
+ gloss: PTCP
+ gramm: +ptcp
+ paradigm: Adj1
